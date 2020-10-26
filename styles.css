@@ -1,0 +1,21 @@
+h1 {
+	color: red;
+	text-align: center;
+	}
+
+p {
+	color: blue;
+}
+
+/*div is a particular region delimited in our html page*/
+div {
+	background-color: teal;
+	width: 100px;
+	height: 400px;
+	margin: 30px; /*blank space surrounding the square*/
+	padding: 20px; /*empty between the square and the text*/
+	font-family: Arial, sans-serif; /*two fonts in case the first one is not recognized by the browser*/
+	font-size: 28px;
+	font-weight: bold;
+	border: 3px solid blue;
+}
